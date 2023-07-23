@@ -8,10 +8,10 @@ RVTEST_CODE_BEGIN
 
   .align 2
   .option norvc
-  li TESTNUM, 2
+  li TESTNUM, 3
 
   la t0, test_cases
-  li t5, 3
+  li t4, 3
 
 loop:
 	lw t1, (t0)
