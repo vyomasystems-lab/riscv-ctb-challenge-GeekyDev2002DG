@@ -3,7 +3,7 @@
 #include "riscv_test.h"
 #include "test_macros.h"
 
-RVTEST_RV64M
+RVTEST_RV32M
 RVTEST_CODE_BEGIN
 
   .align 2
@@ -13,7 +13,7 @@ RVTEST_CODE_BEGIN
 illegal_instruction:
   .word 0              
   j fail
-  TEST_PASSFAIL
+  
 
   .align 8
   .global mtvec_handler
@@ -22,8 +22,8 @@ mtvec_handler:
   csrr t0, mcause
   bne t0, t1, fail
   csrr t0, mepc
-
-  mret
+  TEST_PASSFAIL
+  
 
 RVTEST_CODE_END
 
