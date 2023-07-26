@@ -8,6 +8,7 @@
 
 # challenge1_logical 
 **Two bugs** were detected 
+#
 **1)** Bugs detected at line 15855 , Below is the attached screenshot of the same.
 
 <img width="957" alt="challenge1logicalBUG1" src="https://github.com/vyomasystems-lab/riscv-ctb-challenge-GeekyDev2002DG/assets/72439194/73fcd66c-8e08-4e33-9702-ebc4f9c4a7fe">
