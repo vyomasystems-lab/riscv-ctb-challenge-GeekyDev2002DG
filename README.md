@@ -1,6 +1,6 @@
 
 # RISCV CTB VERIFICATION HACKATHON FINAL REPORT
- SUBMITTED BY **DEVPARNO GHOSAL**
+ SUBMITTED BY  **DEVPARNO GHOSAL**
 
 **OBJECTIVE:** This is the final report describing different bugs captured through different challenges provided as a part of this hackathon
 
