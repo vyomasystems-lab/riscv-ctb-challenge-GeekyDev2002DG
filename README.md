@@ -9,7 +9,7 @@
 # challenge1_logical 
 **Two bugs** were detected 
 #
-**1)** Bugs detected at line 15855 , Below is the attached screenshot of the same.
+**1)** Bug detected at line 15855 , Below is the attached screenshot of the same.
 
 <img width="957" alt="challenge1logicalBUG1" src="https://github.com/vyomasystems-lab/riscv-ctb-challenge-GeekyDev2002DG/assets/72439194/73fcd66c-8e08-4e33-9702-ebc4f9c4a7fe">
 
@@ -18,8 +18,8 @@ The **SOLUTION** to the bug is the following piece of code
 #
 <img width="959" alt="challenge1logicalBUG1soln" src="https://github.com/vyomasystems-lab/riscv-ctb-challenge-GeekyDev2002DG/assets/72439194/d3bd00da-ccde-4503-9eae-857c7ef63f0f">
 
-
-**2)** Bugs detected at line 25584 , Below is the attached screenshot of the same.
+#
+**2)** Bug detected at line 25584 , Below is the attached screenshot of the same.
 #
 <img width="957" alt="challenge1logicalBUG2" src="https://github.com/vyomasystems-lab/riscv-ctb-challenge-GeekyDev2002DG/assets/72439194/2dd1579c-a86c-4ff4-8598-7b64fe736d2d">
 
