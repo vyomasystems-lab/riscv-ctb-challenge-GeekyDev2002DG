@@ -21,7 +21,7 @@ The **solution** to the bug is the following piece of code
 
 <img width="957" alt="challenge1logicalBUG2" src="https://github.com/vyomasystems-lab/riscv-ctb-challenge-GeekyDev2002DG/assets/72439194/2dd1579c-a86c-4ff4-8598-7b64fe736d2d">
 
-The **solution** to the bug is the following piece of code
+The **SOLUTION** to the bug is the following piece of code
 
 <img width="959" alt="challenge1logicalBUG2soln" src="https://github.com/vyomasystems-lab/riscv-ctb-challenge-GeekyDev2002DG/assets/72439194/4ac96f13-c0df-42c5-996c-7446e741b746">
 
@@ -32,7 +32,7 @@ Bugs detected at line 11 and 14 , Below is the attached screenshot of the same.
 
 <img width="958" alt="challenge1loopBUGln11_14" src="https://github.com/vyomasystems-lab/riscv-ctb-challenge-GeekyDev2002DG/assets/72439194/ffd8d207-88d1-4a63-9ab2-f60313d1135f">
 
-The **solution** to the bugs is the following piece of code
+The **SOLUTION** to the bugs is the following piece of code
 
 <img width="956" alt="challenge1loopBUGln11_14 soln" src="https://github.com/vyomasystems-lab/riscv-ctb-challenge-GeekyDev2002DG/assets/72439194/25ca0225-abec-4cec-ad96-f6b9ad6f05af">
 
@@ -43,7 +43,7 @@ Bugs detected at line 6, 16 and 26 , Below is the attached screenshot of the sam
 
 <img width="957" alt="challenge1illegalBUG61626" src="https://github.com/vyomasystems-lab/riscv-ctb-challenge-GeekyDev2002DG/assets/72439194/d21e87b0-b8b3-4b64-b5be-9fa0f230b512">
 
-The **solution** to the bugs is the following piece of code
+The **SOLUTION** to the bugs is the following piece of code
 
 <img width="958" alt="challenge1illegalBUG61626soln1" src="https://github.com/vyomasystems-lab/riscv-ctb-challenge-GeekyDev2002DG/assets/72439194/85a35b74-75aa-42f0-939b-a2218a6efff0">
 
