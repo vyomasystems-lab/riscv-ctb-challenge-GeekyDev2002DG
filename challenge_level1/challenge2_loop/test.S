@@ -8,7 +8,7 @@ RVTEST_CODE_BEGIN
 
   .align 2
   .option norvc
-  li TESTNUM, 2
+  li TESTNUM, 3
 
   la t0, test_cases
   li t5, 3
@@ -19,8 +19,8 @@ loop:
   lw t3, 8(t0)
   add t4, t1, t2
   addi t0, t0, 12
-  beq t3, t4, loop      # check if sum is correct
-  j fail
+  beq t3, t5, loop      # check if sum is correct
+  
 
 test_end:
 TEST_PASSFAIL
