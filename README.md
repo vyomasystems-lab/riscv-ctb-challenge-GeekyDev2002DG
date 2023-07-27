@@ -30,15 +30,15 @@ The **SOLUTION** to the bug is the following piece of code
 
 #
 # challenge2_loop
-**Two bugs** were detected 
-Bugs detected at line 11 and 14 , Below is the attached screenshot of the same.
+**Three bugs** were detected 
+Bugs detected at line 11 , 22 and 23 , Below is the attached screenshot of the same.
 
-<img width="958" alt="challenge1loopBUGln11_14" src="https://github.com/vyomasystems-lab/riscv-ctb-challenge-GeekyDev2002DG/assets/72439194/ffd8d207-88d1-4a63-9ab2-f60313d1135f">
+<img width="957" alt="challenge1loopBUGln11_22_23bug" src="https://github.com/vyomasystems-lab/riscv-ctb-challenge-GeekyDev2002DG/assets/72439194/3fe8f4b6-2879-44f1-9707-6e4964d9afde">
 
 #
 The **SOLUTION** to the bugs is the following piece of code
 #
-<img width="956" alt="challenge1loopBUGln11_14 soln" src="https://github.com/vyomasystems-lab/riscv-ctb-challenge-GeekyDev2002DG/assets/72439194/25ca0225-abec-4cec-ad96-f6b9ad6f05af">
+<img width="957" alt="challenge1loopBUGln11_22_23soln" src="https://github.com/vyomasystems-lab/riscv-ctb-challenge-GeekyDev2002DG/assets/72439194/b779f38d-b1d6-4fe5-8c78-7d79b39ad0ca">
 
 #
 # challenge3_illegal
