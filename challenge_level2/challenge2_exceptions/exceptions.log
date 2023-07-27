@@ -1,0 +1,1 @@
+core   0: exception trap_illegal_instruction, epc 0x800000b0
