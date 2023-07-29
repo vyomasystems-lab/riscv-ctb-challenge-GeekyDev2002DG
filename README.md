@@ -16,7 +16,8 @@ is different which is logically incorrect
 <img width="957" alt="challenge1logicalBUG1" src="https://github.com/vyomasystems-lab/riscv-ctb-challenge-GeekyDev2002DG/assets/72439194/73fcd66c-8e08-4e33-9702-ebc4f9c4a7fe">
 
 #
-The **SOLUTION** to the bug is the following piece of code
+The **SOLUTION** to the bug is the following piece of code.
+#
 To make logically correct we make the last parameter of both statements at line no. 15855 and 15856 same -- "ra", rendering line 15855 and 15856 as same, hence correcting the code
 #
 <img width="959" alt="challenge1logicalBUG1soln" src="https://github.com/vyomasystems-lab/riscv-ctb-challenge-GeekyDev2002DG/assets/72439194/d3bd00da-ccde-4503-9eae-857c7ef63f0f">
