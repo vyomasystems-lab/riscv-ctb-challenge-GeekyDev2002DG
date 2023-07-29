@@ -10,7 +10,7 @@
 **Two bugs** were detected 
 #
 **1)** Bug detected at line 15855 , Below is the attached screenshot of the same.
-# For both statements at line no. 15855 and 15856 the statements refer to "s7" yet last parameter (*one being "z4" and other "ra"*)
+For both statements at line no. 15855 and 15856 the statements refer to "s7" yet last parameter (*one being "z4" and other "ra"*)
 is different which is logically incorrect
 <img width="957" alt="challenge1logicalBUG1" src="https://github.com/vyomasystems-lab/riscv-ctb-challenge-GeekyDev2002DG/assets/72439194/73fcd66c-8e08-4e33-9702-ebc4f9c4a7fe">
 
